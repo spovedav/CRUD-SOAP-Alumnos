@@ -1,4 +1,4 @@
-# CRUD-SOAP-Alumnos
+# CRUD-SOAP-Alumnos & ASP.NTE C# FRAMEWORK MVC 
 pequeño sistema de crud de Alumnos utilizando Servicios SOAP para Practicar  
 
 ## Hosting
@@ -13,7 +13,7 @@ Haciendo casi una base e datos Profecional con relacilaciones de Tablas
 ![DiagramaAlumnos2](https://user-images.githubusercontent.com/37716320/81251824-dad89380-8fe9-11ea-9e13-d518fac78145.PNG)
 
 ### SOAP
-Servios Propoios Creando un proyecto(WCF) en En las misma Solucion Para comsuimir SOAP
+Creación Aplicación(WCF) en En las misma Solucion Para comsuimir SOAP
 Hacindo contratos 
 Creacion Funciones que retorna un Tipo de dato ó Objeto
 
