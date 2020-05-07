@@ -2,7 +2,9 @@
 pequeño sistema de crud de Alumnos utilizando Servicios SOAP para Practicar  
 
 ## Hosting
-Por motivos de pagos no lo puede subir a un Hosting 
+Por motivos de pagos no lo puede subir a un Hosting // No puede subir por este medio por que 
+GitHub Solo permite 25Mb
+Mi Proyecto pesa 102Mb
 
 ### CRUD
 Utilizando SQL SERVER 
